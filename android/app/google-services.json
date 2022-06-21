@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "469241974744",
+    "project_id": "can-do-today-trader",
+    "storage_bucket": "can-do-today-trader.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469241974744:android:e6a1aca33619512261acad",
+        "android_client_info": {
+          "package_name": "com.ah.can_do_customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469241974744-l62i983esq9l646ujc3rgisehvb1eojn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAcR1QJeXenDP4K3h4ojvMVUAvWixgVvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469241974744-l62i983esq9l646ujc3rgisehvb1eojn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
