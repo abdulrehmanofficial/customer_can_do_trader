@@ -20,9 +20,9 @@ class Constants {
 
   // static final InAppPurchase inAppPurchaseInstance = InAppPurchase.instance;
 
-  static String oneSignalId = "a9f42a42-4641-41e6-93c4-f58c12efef11";
+  static String oneSignalId = "YOUR_ONE_SIGNAL_KEY";
 
-  static String baseURL = "https://houseofsoftwares.com/can-do/Api.php?action=";
+  static String baseURL = "YOUR_WEB_API_URL";
   static String rigister = "register";
   static String sigin = "login";
   static String getSubscription = "getSubscriptions";
