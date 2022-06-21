@@ -1,2 +1,3 @@
 # can_do_customer_trader
- trader
+ 
+ Can Do Today Trader App is Flutter Based Service Providing Android IOS App.
